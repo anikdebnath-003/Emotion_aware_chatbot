@@ -1,0 +1,1 @@
+Card_12_Handle crisis situations Description: As a counselor I want to handle crisis situations so that I can respond to emergencies.

@@ -1,0 +1,1 @@
+Card_10_Join support session Description: As a counselor I want to join support session so that I can assist students directly.

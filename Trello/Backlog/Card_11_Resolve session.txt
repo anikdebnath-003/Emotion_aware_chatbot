@@ -1,0 +1,1 @@
+Card_11_Resolve session Description: As a counselor I want to resolve session so that I can close completed sessions.
