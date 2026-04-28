@@ -1,0 +1,2 @@
+Login for Administrator
+As a administrator i want to login to the system so that i can manage platform
