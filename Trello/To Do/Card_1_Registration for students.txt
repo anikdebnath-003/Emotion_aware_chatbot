@@ -1,1 +1,0 @@
-Card_1_Registration for students Description: As a student I want to register an account so that I can access the system.
