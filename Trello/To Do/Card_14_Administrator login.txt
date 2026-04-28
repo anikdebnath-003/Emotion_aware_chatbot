@@ -1,1 +1,0 @@
-Card_14_Administrator login Description: As an administrator I want to login to system so that I can manage platform.
